@@ -1,0 +1,114 @@
+```python
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torch_geometric.data import Data
+from torch_geometric.nn import GCNConv, GNNExplainer
+from transformers import BertTokenizer, BertModel
+import networkx as nx
+
+# Prepare mock data
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+bert_model = BertModel.from_pretrained('bert-base-uncased')
+
+def embed_text(text):
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True, max_length=128)
+    with torch.no_grad():
+        outputs = bert_model(**inputs)
+    return outputs.last_hidden_state.mean(dim=1)
+
+# Create a mock graph
+G = nx.Graph()
+
+# Add question entities
+questions = ["What is the capital of France?", "Who wrote 'Hamlet'?"]
+sources = ["Paris is the capital of France.", "'Hamlet' was written by William Shakespeare."]
+
+# Add nodes and edges
+question_nodes = [f"q{i}" for i in range(len(questions))]
+source_nodes = [f"s{i}" for i in range(len(sources))]
+
+for i, question in enumerate(questions):
+    G.add_node(question_nodes[i], text=question, type='question')
+
+for i, source in enumerate(sources):
+    G.add_node(source_nodes[i], text=source, type='source')
+
+# Creating edges based on relationships
+G.add_edge(question_nodes[0], source_nodes[0])
+G.add_edge(question_nodes[1], source_nodes[1])
+
+# Convert to PyTorch Geometric Data
+question_features = torch.stack([embed_text(G.nodes[node]['text']) for node in question_nodes])
+source_features = torch.stack([embed_text(G.nodes[node]['text']) for node in source_nodes])
+
+# Combine question and source nodes
+x = torch.cat((question_features, source_features), dim=0)
+
+# Create edge index
+edge_index = torch.tensor(list(G.edges)).t().contiguous()
+
+# Create data object
+data = Data(x=x, edge_index=edge_index)
+
+# Define GNN model
+class GNNModel(nn.Module):
+    def __init__(self, input_dim, hidden_dim, output_dim):
+        super(GNNModel, self).__init__()
+        self.conv1 = GCNConv(input_dim, hidden_dim)
+        self.conv2 = GCNConv(hidden_dim, output_dim)
+    
+    def forward(self, data):
+        x, edge_index = data.x, data.edge_index
+        x = self.conv1(x, edge_index).relu()
+        x = self.conv2(x, edge_index)
+        return x
+
+# Initialize model, optimizer, and criterion
+input_dim = question_features.size(1)
+hidden_dim = 64
+output_dim = 1
+model = GNNModel(input_dim, hidden_dim, output_dim)
+optimizer = optim.Adam(model.parameters(), lr=0.01)
+criterion = nn.BCEWithLogitsLoss()
+
+# Training loop
+def train():
+    model.train()
+    optimizer.zero_grad()
+    out = model(data)
+    labels = torch.tensor([1, 1, 0, 0], dtype=torch.float)  # Example labels
+    loss = criterion(out.squeeze(), labels)
+    loss.backward()
+    optimizer.step()
+    return loss.item()
+
+# Train the model
+for epoch in range(100):
+    loss = train()
+    if epoch % 10 == 0:
+        print(f'Epoch {epoch}, Loss: {loss}')
+
+# Inference example
+def predict(question_index):
+    model.eval()
+    with torch.no_grad():
+        question_node = question_nodes[question_index]
+        related_sources = [n for n in G.neighbors(question_node) if G.nodes[n]['type'] == 'source']
+        related_source_indices = [source_nodes.index(n) for n in related_sources]
+        out = model(data)
+        predictions = torch.sigmoid(out[related_source_indices])
+        best_source_index = related_source_indices[predictions.argmax()]
+        answer = G.nodes[source_nodes[best_source_index]]['text']
+        return answer
+
+# Predict answer for the first question
+answer = predict(0)
+print(f"Answer: {answer}")
+
+# Apply GNNExplainer
+explainer = GNNExplainer(model, epochs=200)
+node_idx = 0  # Index of the question node to explain
+node_feat_mask, edge_mask = explainer.explain_node(node_idx, data)
+explainer.visualize_subgraph(node_idx, edge_index, edge_mask, y=data.y)
+```

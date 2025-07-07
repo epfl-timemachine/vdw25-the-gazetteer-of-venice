@@ -1,0 +1,2410 @@
+{
+    "Abazia (Fondamenta, Sottoportico, Campo, Ponte, Fondamenta dell’)  a S. Maria della Misericordia.": {
+        "address": "Ponte de l'Abazia, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4307785,
+        "longitude": 12.3342614,
+        "years": [
+            939,
+            1348,
+            1369,
+            1505,
+            1833
+        ]
+    },
+    "Carità (Rio terrà, Campo, Ponte della).": {
+        "address": "Campo de la Carità, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.431564,
+        "longitude": 12.3283317,
+        "years": [
+            1120,
+            1134,
+            1177,
+            1409,
+            1446,
+            1560,
+            1768,
+            1807
+        ]
+    },
+    "Celestia (Campo, Rio della)": {
+        "address": "Campo della Celestia, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4377726,
+        "longitude": 12.3495249,
+        "years": [
+            1199,
+            1237,
+            1442,
+            1509,
+            1525,
+            1569,
+            1611,
+            1810
+        ]
+    },
+    "Confraternita (Campo della)  a S. Francesco della Vigna.": {
+        "address": "Campo della confraternità, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4379436,
+        "longitude": 12.3477107,
+        "years": [
+            1815
+        ]
+    },
+    "Fava (Calle e Rami dietro la, Campo, Ponte, Calle della).": {
+        "address": "Ponte de la Fava, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4370888,
+        "longitude": 12.3375503,
+        "years": [
+            1480,
+            1496
+        ]
+    },
+    "Frari (Parrocchia, Fondamenta, Ponte, Campo, Rio dei).": {
+        "address": "Ponte dei Frari, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4372621,
+        "longitude": 12.3272214,
+        "years": [
+            1227
+        ]
+    },
+    "Gesuiti (Campo, Rio, Ponte dei).": {
+        "address": "Ponte dei Gesuiti, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.442674,
+        "longitude": 12.3382892,
+        "years": [
+            1150,
+            1155,
+            1214,
+            1464,
+            1472,
+            1514,
+            1553,
+            1568,
+            1606,
+            1656,
+            1657,
+            1715,
+            1773,
+            1807,
+            1844,
+            1844,
+            1846
+        ]
+    },
+    "Guerra (Calle al Ponte, Ponte, Campo, Callesella della)  a S. Giuliano.": {
+        "address": "Calle al Ponte de la Guerra, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4364953,
+        "longitude": 12.3396657,
+        "years": []
+    },
+    "Lana (Campo, Sottoportico Secondo della)  al Gesù e Maria.": {
+        "address": "Campo de la Lana, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4387732,
+        "longitude": 12.3226416,
+        "years": []
+    },
+    "Madonna dell’Orto (Fondamenta, Campo, Ponte, Rio della).": {
+        "address": "Ponte Madonna dell'Orto, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4460176,
+        "longitude": 12.3325474,
+        "years": [
+            1377,
+            1399,
+            1462,
+            1473,
+            1581,
+            1668,
+            1669,
+            1689,
+            1781,
+            1787,
+            1810,
+            1815,
+            1833,
+            1841,
+            1845,
+            1855
+        ]
+    },
+    "Manin (Campo)  a S. Luca.": {
+        "address": "Campo Daniele Manin, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4353372,
+        "longitude": 12.3344385,
+        "years": []
+    },
+    "Marte (Campo di)  a S. Maria Maggiore.": {
+        "address": "Calle de Campo di Marte, Giudecca, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4252629,
+        "longitude": 12.3370308,
+        "years": [
+            1828
+        ]
+    },
+    "Miracoli (Calle, Ramo, Ponte, Rio, Campo, Campiello, Calle dei).": {
+        "address": "Ponte dei Miracoli, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4393326,
+        "longitude": 12.338913,
+        "years": [
+            1480,
+            1488,
+            1810
+        ]
+    },
+    "Mori (Calle, Campo, Ponte, Fondamenta,  Corte dei)  alla Madonna dell’Orto.": {
+        "address": "Ponte dei Mori, Fondamenta dei Mori, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4452901,
+        "longitude": 12.3320707,
+        "years": []
+    },
+    "Nicoli (Ramo, Campo dei)  a Castello.": {
+        "address": "Campo dei Nicoli, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4313332,
+        "longitude": 12.3563046,
+        "years": [
+            1318,
+            1661,
+            1767
+        ]
+    },
+    "Pisani (Campo)  a San Stefano.": {
+        "address": "Campo Pisani, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4324132,
+        "longitude": 12.3303583,
+        "years": [
+            1735,
+            1806,
+            1807
+        ]
+    },
+    "S. Andrea (Fondamenta, Rio, Ponte, Campo, Fondamenta di).": {
+        "address": "Ponte Sant'Andrea, Ponte di Sant'Andrea, Sottomarina, Chioggia, Venezia, Veneto, 30015, Italia",
+        "latitude": 45.2212995,
+        "longitude": 12.2804224,
+        "years": [
+            1329,
+            1331,
+            1346,
+            1475,
+            1502,
+            1684
+        ]
+    },
+    "S. Angelo (Campo, Rio di) .": {
+        "address": "Campo San Biasio, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4325755,
+        "longitude": 12.3498862,
+        "years": [
+            920,
+            1069,
+            1347,
+            1431,
+            1455,
+            1456,
+            1476,
+            1520,
+            1631,
+            1719,
+            1729,
+            1801,
+            1810,
+            1837
+        ]
+    },
+    "S. Anna (Fondamenta, Campo, Ramo, Po nte, Rio, Calle al Ponte, Calle).": {
+        "address": "Campo Sant'Anna, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30132, Italia",
+        "latitude": 45.4324132,
+        "longitude": 12.3578175,
+        "years": [
+            1240,
+            1242,
+            1297,
+            1304,
+            1608,
+            1634,
+            1765,
+            1807,
+            1810
+        ]
+    },
+    "S. Aponal (Campo, Rio di).": {
+        "address": "Campo Sant' Aponal, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4378246,
+        "longitude": 12.3323197,
+        "years": [
+            1034,
+            1480,
+            1810,
+            1840,
+            1851
+        ]
+    },
+    "S. Barnaba (Campo, Ponte, Rio, Traghetto di).": {
+        "address": "Ponte San Barnaba, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4332845,
+        "longitude": 12.3252419,
+        "years": [
+            809,
+            1105,
+            1337,
+            1350,
+            1776,
+            1810
+        ]
+    },
+    "S. Bartolomeo (Merceria, Campo).": {
+        "address": "Campo San Bartolomeo, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.437679,
+        "longitude": 12.3368108,
+        "years": [
+            840,
+            1170,
+            1195,
+            1342,
+            1723,
+            1747,
+            1754,
+            1810,
+            1858
+        ]
+    },
+    "S. Basegio (Campo, Fondamenta, Ponte, Sottoportico, Salizzada).": {
+        "address": "Ponte San Basegio, Ponte de San Basegio, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4313116,
+        "longitude": 12.3205897,
+        "years": [
+            870,
+            905,
+            970,
+            1105,
+            1187,
+            1347,
+            1525,
+            1808,
+            1810,
+            1821,
+            1824
+        ]
+    },
+    "S. Boldo (Campo, Ponte).": {
+        "address": "Ponte San Boldo, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.439467,
+        "longitude": 12.3283754,
+        "years": [
+            1105,
+            1305,
+            1735,
+            1808
+        ]
+    },
+    "S. Cosmo (Campazzo, Campo, Ponte)  alla Giudecca.": {
+        "address": "Campo San Cosmo, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4257897,
+        "longitude": 12.3231823,
+        "years": [
+            1481,
+            1492,
+            1519,
+            1523,
+            1583
+        ]
+    },
+    "S. Felice (Parrocchia, Fondamenta, Rio, Campo, Traghetto, Ponte, Ramo e Ponte, Ponte Nuovo).": {
+        "address": "Ponte San Felice, Strada Nova, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4415375,
+        "longitude": 12.3334513,
+        "years": [
+            960,
+            966,
+            1267,
+            1624,
+            1810
+        ]
+    },
+    "S. Fosca (Campo, Ponte, Rio, Salizzada, Calle).": {
+        "address": "Ponte Santa Fosca, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4433047,
+        "longitude": 12.3321183,
+        "years": [
+            873,
+            1297,
+            1679,
+            1733,
+            1741,
+            1810
+        ]
+    },
+    "S. Geremia (Parrocchia, Salizzada, Campo, Traghetto).": {
+        "address": "Campo San Geremia, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4429518,
+        "longitude": 12.3249985,
+        "years": [
+            1174,
+            1223,
+            1292,
+            1570,
+            1573,
+            1574,
+            1584,
+            1589,
+            1615,
+            1658,
+            1742,
+            1753,
+            1810,
+            1844,
+            1849
+        ]
+    },
+    "S. Giacomo (Campo, Fondamenta)  alla Giudecca.": {
+        "address": "Campo San Giacomo, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4254552,
+        "longitude": 12.3312389,
+        "years": [
+            1338,
+            1343,
+            1371
+        ]
+    },
+    "S. Giacomo dall’Orio (Parrocchia, Campo, Rio).": {
+        "address": "Campo San Giacomo dall'Orio, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.440042,
+        "longitude": 12.3277571,
+        "years": [
+            1225,
+            1711,
+            1810
+        ]
+    },
+    "S. Giobbe (Fondamenta, Campo, Ponte, Rio di).": {
+        "address": "Ponte de la Saponela, Fondamenta San Giobbe, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4455906,
+        "longitude": 12.3204416,
+        "years": [
+            1378,
+            1390,
+            1434,
+            1450,
+            1471,
+            1493,
+            1503,
+            1597,
+            1688,
+            1794,
+            1812,
+            1859
+        ]
+    },
+    "S. Giovanni Grisostomo (Ponte, Rio, Salizzada, Campo).": {
+        "address": "Ponte dei Zogatoli già San Giovanni Grisostomo, Campiello Flaminio Corner, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4395407,
+        "longitude": 12.33707,
+        "years": [
+            1080,
+            1475,
+            1488,
+            1497,
+            1540,
+            1810
+        ]
+    },
+    "S. Giovanni Novo (Campo).": {
+        "address": "Campo San Zuane Novo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4356599,
+        "longitude": 12.3413292,
+        "years": [
+            968,
+            1463,
+            1520,
+            1808,
+            1810
+        ]
+    },
+    "S. Giuseppe (Secco, Squero, Fondamenta, Ponte, Rio, Campo, Rio Terrà).": {
+        "address": "Campo San Giuseppe, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4301131,
+        "longitude": 12.356883,
+        "years": [
+            1530,
+            1643,
+            1801
+        ]
+    },
+    "S. Giustina (Campo, Fondamenta, Rio, Ponte, Salizzada, Campiello).": {
+        "address": "Ponte de Santa Giustina, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4381952,
+        "longitude": 12.3458502,
+        "years": [
+            1219,
+            1448,
+            1537,
+            1538,
+            1542,
+            1571,
+            1640,
+            1668,
+            1747,
+            1810,
+            1841,
+            1844
+        ]
+    },
+    "S. Leonardo (Campo).": {
+        "address": "Campo San Leonardo, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4435713,
+        "longitude": 12.3268991,
+        "years": [
+            1025,
+            1343,
+            1419,
+            1794,
+            1807
+        ]
+    },
+    "S. Lio (Salizzada, Campo).": {
+        "address": "Campo San Lio, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.437602,
+        "longitude": 12.3383336,
+        "years": [
+            1054,
+            1619,
+            1783,
+            1810
+        ]
+    },
+    "S. Lorenzo (Fondamenta, Ponte, Rio, Campo, Fondamenta, Ramo della Fondamenta).": {
+        "address": "Ponte de San Lorenzo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4370107,
+        "longitude": 12.3442967,
+        "years": [
+            854,
+            1105,
+            1592,
+            1602,
+            1810,
+            1812,
+            1817
+        ]
+    },
+    "S. Luca (Campo, Ramo va in Campo, Salizzada, Rio).": {
+        "address": "Campo San Luca, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4358418,
+        "longitude": 12.335293,
+        "years": [
+            1310,
+            1442,
+            1581,
+            1810,
+            1827,
+            1832
+        ]
+    },
+    "S. Maria Formosa (Parrocchia, Campo, Rio, Borgoloco).": {
+        "address": "Campo Santa Maria Formosa, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4372954,
+        "longitude": 12.3410372,
+        "years": [
+            864,
+            1105,
+            1492,
+            1541,
+            1604,
+            1689,
+            1810,
+            1842
+        ]
+    },
+    "S. Maria Mater Domini (Ponte, Rio, Campo).": {
+        "address": "Ponte Santa Maria Mater Domini, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4396056,
+        "longitude": 12.3306742,
+        "years": [
+            960,
+            1150,
+            1310,
+            1503,
+            1544,
+            1548,
+            1550,
+            1579,
+            1586,
+            1587,
+            1743,
+            1810
+        ]
+    },
+    "S. Maria Nova (Campo).": {
+        "address": "Campo Santa Maria Nova, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4398538,
+        "longitude": 12.3390673,
+        "years": [
+            971,
+            1498,
+            1535,
+            1540,
+            1759,
+            1760,
+            1808,
+            1853
+        ]
+    },
+    "S. Maria Zobenigo (Parrocchia, Campo, Rio, Traghetto di).": {
+        "address": "Campo Santa Maria del Giglio, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.432366,
+        "longitude": 12.3329356,
+        "years": [
+            900,
+            906,
+            1105,
+            1355,
+            1379,
+            1400,
+            1430,
+            1517,
+            1519,
+            1582,
+            1628,
+            1660,
+            1680,
+            1700,
+            1810,
+            1833
+        ]
+    },
+    "S. Marina (Campo, Rio).": {
+        "address": "Campo Santa Marina, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4384182,
+        "longitude": 12.3389743,
+        "years": [
+            1030,
+            1484,
+            1485,
+            1506,
+            1520,
+            1553,
+            1705,
+            1754,
+            1808,
+            1818,
+            1820
+        ]
+    },
+    "S. Martino (Parrocchia, Campo, Rio, Piscina di).": {
+        "address": "Via Venezia, Marsango, Campo San Martino, Padova, Veneto, 35010, Italia",
+        "latitude": 45.5454361,
+        "longitude": 11.8491022,
+        "years": [
+            1226,
+            1229,
+            1537,
+            1540,
+            1558,
+            1566,
+            1653,
+            1810
+        ]
+    },
+    "S. Marziale (Campo, Ponte, Rio).": {
+        "address": "Ponte San Marziale, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4440464,
+        "longitude": 12.3328298,
+        "years": [
+            1133,
+            1286,
+            1373,
+            1575,
+            1622,
+            1693,
+            1721
+        ]
+    },
+    "S. Moisè (Parrocchia, Campo, Salizzada, Rio, Ponte, Piscina).": {
+        "address": "Ponte San Moisè, Campo San Moisè, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.43306,
+        "longitude": 12.3355704,
+        "years": [
+            797,
+            947,
+            1105,
+            1549,
+            1553,
+            1554,
+            1591,
+            1682,
+            1810
+        ]
+    },
+    "S. Pietro (Parrocchia, Campo, Ponte di).": {
+        "address": "Ponte San Pietro, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30132, Italia",
+        "latitude": 45.4344883,
+        "longitude": 12.3582633,
+        "years": [
+            650,
+            774,
+            829,
+            841,
+            932,
+            942,
+            1463,
+            1474,
+            1508,
+            1524,
+            1556,
+            1594,
+            1621,
+            1670,
+            1807,
+            1810
+        ]
+    },
+    "S. Polo (Sestiere, Campo, Salizzada, Ponte, Rio).": {
+        "address": "Ponte San Polo, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4368298,
+        "longitude": 12.329012,
+        "years": [
+            837,
+            1343,
+            1452,
+            1494,
+            1510,
+            1511,
+            1537,
+            1563,
+            1644,
+            1805,
+            1838
+        ]
+    },
+    "S. Pròvolo (Salizzada, Ponte, Rio, Campiello, Campo, Calle).": {
+        "address": "Ponte de San Provolo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4349753,
+        "longitude": 12.3420787,
+        "years": [
+            809,
+            814,
+            830,
+            1105,
+            1107,
+            1389,
+            1458,
+            1503,
+            1539,
+            1564,
+            1646,
+            1737,
+            1808,
+            1814
+        ]
+    },
+    "S. Rocco (Salizzada, Campo, Sottoportico, Campiello).": {
+        "address": "Campo San Rocco, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4367177,
+        "longitude": 12.325588,
+        "years": [
+            1489,
+            1508,
+            1575,
+            1576,
+            1725,
+            1765,
+            1771
+        ]
+    },
+    "S. Samuele (Salizzada, Campo, Piscina, Traghetto).": {
+        "address": "Campo San Samuele, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.433439,
+        "longitude": 12.3279107,
+        "years": [
+            1000,
+            1105,
+            1107,
+            1290,
+            1393,
+            1468,
+            1483,
+            1521,
+            1555,
+            1580,
+            1583,
+            1630,
+            1683,
+            1787,
+            1810
+        ]
+    },
+    "S. Severo (Ponte, Rio, Fondamenta, Campo).": {
+        "address": "Ponte de San Severo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4361736,
+        "longitude": 12.3432232,
+        "years": [
+            820,
+            1105,
+            1808,
+            1829
+        ]
+    },
+    "S. Silvestro (Parrocchia, Campo, Rio Terrà, Fondamenta ora Rio T errà, Sottoportico, Traghetto).": {
+        "address": "Campo de San Silvestro, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4374856,
+        "longitude": 12.3330534,
+        "years": [
+            884,
+            1177,
+            1321,
+            1422,
+            1478,
+            1485,
+            1511,
+            1810,
+            1837,
+            1843
+        ]
+    },
+    "S. Sofia (Campo, Rio, Traghetto).": {
+        "address": "Campo Santa Sofia, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4406477,
+        "longitude": 12.3346838,
+        "years": [
+            866,
+            1020,
+            1025,
+            1225,
+            1461,
+            1520,
+            1568,
+            1582,
+            1698,
+            1791,
+            1810,
+            1836
+        ]
+    },
+    "S. Stae (Salizzada, Campo, Traghetto).": {
+        "address": "Campo San Stae, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4414922,
+        "longitude": 12.3308869,
+        "years": [
+            966,
+            1290,
+            1415,
+            1427,
+            1433,
+            1452,
+            1523,
+            1636,
+            1661,
+            1678,
+            1709,
+            1755
+        ]
+    },
+    "S. Stefano (Parrocchia, Campo, Campiello).": {
+        "address": "Campo Santo Stefano, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4330944,
+        "longitude": 12.3304167,
+        "years": [
+            1211,
+            1236,
+            1264,
+            1274,
+            1294,
+            1325,
+            1348,
+            1406,
+            1513,
+            1530,
+            1532,
+            1548,
+            1550,
+            1620,
+            1743,
+            1807,
+            1810
+        ]
+    },
+    "S. Stin (Campo, Ponte, Rio).": {
+        "address": "Ponte San Stin, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4376157,
+        "longitude": 12.3270873,
+        "years": [
+            1105,
+            1295,
+            1810
+        ]
+    },
+    "S. Tèrnita (Campo, Ponte, Rio).": {
+        "address": "Campo Santa Ternita, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4372748,
+        "longitude": 12.3488097,
+        "years": [
+            1536,
+            1545,
+            1607,
+            1751,
+            1752,
+            1810,
+            1832
+        ]
+    },
+    "S. Tomà (Ponte, Rio, Fondamenta, Campiello, Campo, Traghetto, Rio Terrà).": {
+        "address": "Ponte San Tomà, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4361292,
+        "longitude": 12.3281712,
+        "years": [
+            917,
+            1240,
+            1395,
+            1508,
+            1574,
+            1610,
+            1666,
+            1672,
+            1742,
+            1807,
+            1810,
+            1835
+        ]
+    },
+    "S. Vidal (Campiello, Campo, Traghetto, Rio di).": {
+        "address": "Campo San Vidal, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4321952,
+        "longitude": 12.3292748,
+        "years": [
+            1084,
+            1105,
+            1584,
+            1810
+        ]
+    },
+    "S. Vio (Rio terrà, Campo, Ponte).": {
+        "address": "Ponte San Vio, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.430593,
+        "longitude": 12.3299046,
+        "years": [
+            912,
+            1288,
+            1310,
+            1354,
+            1533,
+            1557,
+            1684,
+            1740,
+            1749,
+            1757,
+            1767,
+            1808,
+            1813
+        ]
+    },
+    "S. Zaccaria (Parrocchia, Campo, Calle, Sottoportico).": {
+        "address": "Campo San Zaccaria, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4345941,
+        "longitude": 12.3430275,
+        "years": [
+            855,
+            864,
+            1105,
+            1456,
+            1457,
+            1484,
+            1515,
+            1810,
+            1815
+        ]
+    },
+    "San Giuliano (Piscina, Campo, Rio, Merceria).": {
+        "address": "Campo San Giuliano, Quartiere Aretusa, Mestre-Carpenedo, Mestre, Venezia, Veneto, 30170, Italia",
+        "latitude": 45.4794588,
+        "longitude": 12.2618602,
+        "years": [
+            829,
+            1105,
+            1553,
+            1577,
+            1580,
+            1582,
+            1582,
+            1621,
+            1623,
+            1775,
+            1810,
+            1823
+        ]
+    },
+    "San Gregorio (Campo, Calle, Calle del Traghetto, Ponte).": {
+        "address": "Ponte San Gregorio, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4307005,
+        "longitude": 12.3326037,
+        "years": [
+            897,
+            1105,
+            1140,
+            1247,
+            1342,
+            1450,
+            1576,
+            1594,
+            1775,
+            1808,
+            1810
+        ]
+    },
+    "SS. Apostoli (Parrocc hia, Campo, Rio, Ponte, Sottoportico, Rio terrà).": {
+        "address": "Ponte dei Santi Apostoli, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4400756,
+        "longitude": 12.3364779,
+        "years": [
+            1105,
+            1575,
+            1810
+        ]
+    },
+    "SS. Filippo e Giacomo (Campo).": {
+        "address": "Campo Santi Filippo e Giacomo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4350982,
+        "longitude": 12.3414347,
+        "years": [
+            900,
+            976,
+            1472,
+            1579,
+            1591,
+            1683,
+            1807,
+            1813,
+            1828
+        ]
+    },
+    "SS. Giovanni e Paolo (Parrocchia, Campo, Rio, Salizzada).": {
+        "address": "Campo Santi Giovanni e Paolo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4392191,
+        "longitude": 12.3411897,
+        "years": [
+            1226,
+            1234,
+            1355,
+            1399,
+            1400,
+            1430,
+            1440,
+            1490,
+            1502,
+            1505,
+            1631,
+            1682,
+            1782,
+            1824
+        ]
+    },
+    "Salute (Fondamenta della Dogana, Campo, Fondamenta, Ponte, Rio della).": {
+        "address": "Ponte de la Salute, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4302249,
+        "longitude": 12.3343776,
+        "years": [
+            1256,
+            1592,
+            1630,
+            1631,
+            1656,
+            1672,
+            1687,
+            1687,
+            1817
+        ]
+    },
+    "Santo (Campo)  a S. Simeon Grande.": {
+        "address": "Campo Santo, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4405466,
+        "longitude": 12.3242493,
+        "years": []
+    },
+    "Tedeschi (Ramo Campo, Campo dei)  a S. Giacomo dall’Orio.": {
+        "address": "Campo dei Tedeschi, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4398389,
+        "longitude": 12.3258276,
+        "years": []
+    },
+    "Tana (Fondamenta Rio, Rio, Ponte, Ramo del Ponte, Campo della)  all’Arsenale.": {
+        "address": "Ponte de la Tana, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.43295,
+        "longitude": 12.3522103,
+        "years": [
+            1281,
+            1303,
+            1304,
+            1410,
+            1579
+        ]
+    },
+    "Tiziano (Campo di)  in «Birri»,  a S. Canciano.": {
+        "address": "Campo del Tiziano, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4423249,
+        "longitude": 12.3399878,
+        "years": [
+            1527,
+            1531,
+            1540,
+            1549,
+            1566,
+            1571,
+            1576,
+            1585,
+            1661
+        ]
+    },
+    "Tolentini (Parrocchia, Fondamenta, Campo, Rio, Ponte dei).": {
+        "address": "Ponte dei Tolentini, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.437858,
+        "longitude": 12.3212486,
+        "years": [
+            1505,
+            1524,
+            1528,
+            1591,
+            1684,
+            1780,
+            1810
+        ]
+    },
+    "Bella Vienna (Campo, Calle della)  a Rialto.": {
+        "address": "Campo Cesare Battisti, San Polo, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4391132,
+        "longitude": 12.3350696,
+        "years": []
+    },
+    "Acquavita (Ponte, Calle dell’)  ai Gesuiti.": {
+        "address": "Ponte de l'Acquavita, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4421723,
+        "longitude": 12.3390885,
+        "years": [
+            1601,
+            1713,
+            1773
+        ]
+    },
+    "Albero (Ramo al Ponte, Ponte, Fondamenta, Calle, Rami Corte, Corte dell’)  a S. Angelo.": {
+        "address": "Ramo al Ponte de l'Albero, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4350813,
+        "longitude": 12.3314735,
+        "years": [
+            1287,
+            1310,
+            1542
+        ]
+    },
+    "Anatomia (Ponte, Corte, Sottoportico della)  o Ferenzuola (o Fiorenzuola - NRE) a S. Gia como dall’Orio.": {
+        "address": "Ponte de l'Anatomia, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4396583,
+        "longitude": 12.3269048,
+        "years": [
+            1368,
+            1473,
+            1480,
+            1507
+        ]
+    },
+    "Arco (Calle, Ponte, Calle al Ponte dell’)  a S. Antonino.": {
+        "address": "Ponte dell'Arco, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4355745,
+        "longitude": 12.3477416,
+        "years": []
+    },
+    "Arzere (Ponte, Rio dell’)  alle Tere se.": {
+        "address": "Ponte de l'Arzere, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4332738,
+        "longitude": 12.3171102,
+        "years": []
+    },
+    "Aséo (Calle e Ponte dell’)  ai SS. Ermagora e Fortunato.": {
+        "address": "Ponte de l'Aseo, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4450453,
+        "longitude": 12.329806,
+        "years": [
+            1587,
+            1715,
+            1740,
+            1761
+        ]
+    },
+    "Avogadro (Ponte)  a S. Maria Formosa.": {
+        "address": "Ponte Pasqualigo e Avogadro, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4364111,
+        "longitude": 12.3407628,
+        "years": [
+            1437,
+            1495,
+            1512,
+            1632,
+            1635,
+            1697
+        ]
+    },
+    "Avogarìa (Ponte, Rio, Ramo, Calle della)  a S. Barnaba.": {
+        "address": "Ponte de l'Avogaria, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4323403,
+        "longitude": 12.3218643,
+        "years": []
+    },
+    "Ballotte (Calle, Ponte delle)  a S. Salvatore.": {
+        "address": "Ponte de le Balote, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4359352,
+        "longitude": 12.3366579,
+        "years": [
+            1283,
+            1421,
+            1481,
+            1523
+        ]
+    },
+    "Bande (Ponte, Calle delle)  a S. Maria Formosa.": {
+        "address": "Ponte de le Bande, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4368642,
+        "longitude": 12.340636,
+        "years": []
+    },
+    "Barcaroli (Ponte dei).": {
+        "address": "Ponte dei Barcaroli, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4342007,
+        "longitude": 12.3347839,
+        "years": [
+            1827,
+            1851
+        ]
+    },
+    "Baretteri (Ponte, Rio dei)  a S. Salvatore.": {
+        "address": "Ponte dei Bareteri, Sotoportego de le Acque, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.436115,
+        "longitude": 12.3376281,
+        "years": [
+            1315,
+            1379,
+            1508,
+            1741,
+            1772,
+            1773
+        ]
+    },
+    "Beccarie (Calle , Campo, Ponte, Rio, Calle delle)  a Rialto.": {
+        "address": "Ponte Scarpa, Calletta Rosalba Carriera, Sottomarina, Chioggia, Venezia, Veneto, 30015, Italia",
+        "latitude": 45.2179902,
+        "longitude": 12.2788648,
+        "years": [
+            1249,
+            1310,
+            1339,
+            1341,
+            1545,
+            1678,
+            1849
+        ]
+    },
+    "Bella (Ruga, Ponte di Ruga)  a S. Giacomo dall’Orio.": {
+        "address": "Ponte Ruga Bella, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.439978,
+        "longitude": 12.3268716,
+        "years": []
+    },
+    "Bergama (Calle, Ponte della)  a S. Simeon Grande.": {
+        "address": "Ponte de la Bergama, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4404605,
+        "longitude": 12.3239215,
+        "years": []
+    },
+    "Bernardo (Ramo, Calle, Ponte, Fondamenta) a Sant’Agostino.": {
+        "address": "Ponte Bernardo, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4386484,
+        "longitude": 12.3294156,
+        "years": [
+            1303,
+            1545
+        ]
+    },
+    "Borgo (Fondamenta, Ponte di)  ai SS. Gervasio e Protasio.": {
+        "address": "Ponte di Borgo, Lido-Pellestrina, Malamocco, Venezia, Veneto, 30126, Italia",
+        "latitude": 45.372559,
+        "longitude": 12.3408933,
+        "years": []
+    },
+    "Borgoloco (Ramo, Calle, Ponte di)  a S. Maria Formosa.": {
+        "address": "Ponte Borgoloco, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4379424,
+        "longitude": 12.3405987,
+        "years": []
+    },
+    "Briati (Fondamenta, Ponte)  ai Carmini.": {
+        "address": "Ponte Briati, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.433734,
+        "longitude": 12.3209648,
+        "years": [
+            1434,
+            1566,
+            1730,
+            1739
+        ]
+    },
+    "Ca’ di Dio (Fondamenta, Ponte, Rio della)  sulla «Riva degli schiavoni».": {
+        "address": "Ponte de la Ca' di Dio, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4334668,
+        "longitude": 12.3480851,
+        "years": [
+            1272,
+            1360,
+            1570,
+            1623
+        ]
+    },
+    "Calcina (Ponte, Campiello della)  sulle Zattere.": {
+        "address": "Ponte de la Calcina, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4288715,
+        "longitude": 12.328863,
+        "years": [
+            1690
+        ]
+    },
+    "Canal (Fondamenta, Ramo, Ponte)  a S. Barnaba.": {
+        "address": "Ponte Canal, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4388262,
+        "longitude": 12.3236038,
+        "years": [
+            1272,
+            1277,
+            1342,
+            1345,
+            1347,
+            1479,
+            1527,
+            1533,
+            1564
+        ]
+    },
+    "Cannaregio  (Sestiere, Fondamenta, Ponte, Canale, Chiovere di). Vogliono alcuni che «Cannaregio»  sia corruzione di «Canal Regio»,  titolo attribuito, per la sua ampiezza, a quel braccio di canale che, partendosi da S. Geremia, sbocca per S. Giobbe in laguna .": {
+        "address": "Ponte delle Guglie, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4436607,
+        "longitude": 12.3255705,
+        "years": [
+            1410
+        ]
+    },
+    "Canonica (Sottoportico, Corte, Calle, Ramo, Calle, Ponte, Rio di)  a S. Marco.": {
+        "address": "Ponte de la Canonica, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4349547,
+        "longitude": 12.3406329,
+        "years": [
+            829,
+            864,
+            1172,
+            1210,
+            1346,
+            1393,
+            1456,
+            1563,
+            1597,
+            1604,
+            1618,
+            1635,
+            1755
+        ]
+    },
+    "Cappello (Calle, Ponte)  a S. Giovanni Laterano.": {
+        "address": "Ponte Cappello, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4352528,
+        "longitude": 12.3404969,
+        "years": [
+            1297,
+            1362,
+            1462,
+            1465,
+            1466,
+            1487,
+            1490,
+            1541,
+            1604,
+            1639
+        ]
+    },
+    "Cappello o dei Garzoti  (Ponte) A S. Simeon Grande, in «Rio Marin».  Dipende la prima denominazione da un prossimo palazzo, che anticamente era, secondo le genealogie del Priuli, dei Bragadin, e poscia dei Soranzo. Così dice il Martinioni nell’appendice ai palazzi descritti dal Sansovino e dallo Stringa: «In Rio Marin è degno di memoria quello dei Soranzo, per costruttura, per marmi, per magnifiche stanze, per ampie sale e per gli ornamenti specialmente di eccellenti pitture».  Questo palazzo, coll’andar del tempo, passò in mano della famiglia Cappello, della quale dicemmo più sopra.": {
+        "address": "Ponte Cappello o dei Garzoti, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4397131,
+        "longitude": 12.3247688,
+        "years": [
+            1788
+        ]
+    },
+    "Carmini (Ponte dei)  a S. Provolo.": {
+        "address": "Ponte dei Carmini, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4355531,
+        "longitude": 12.3429992,
+        "years": [
+            1791
+        ]
+    },
+    "Cavalletto (Sottoportico, Ponte, Rio, Calle del)  a San Marco.": {
+        "address": "Ponte del Cavalletto, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4342588,
+        "longitude": 12.3373221,
+        "years": [
+            1308,
+            1379,
+            1398,
+            1499,
+            1566
+        ]
+    },
+    "Cavalli (Ramo Primo, Corte, Calle, Ponte, Sottoportico e Calle  dei) a S. Polo.": {
+        "address": "Ponte Cavalli, Dolo 2000, Dolo, Venezia, Veneto, 30031, Italia",
+        "latitude": 45.4211568,
+        "longitude": 12.0729436,
+        "years": []
+    },
+    "Cavallo (Ponte, Calle del)  ai SS. Giovanni e Paolo.": {
+        "address": "Ponte Cavallo, Campo Santi Giovanni e Paolo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4395559,
+        "longitude": 12.3411178,
+        "years": []
+    },
+    "Cavanis (Fondamenta,  Ponte)  a S. Maria Formosa.": {
+        "address": "Ponte Padri Antonio e Marco Cavanis, Sottomarina, Chioggia, Venezia, Veneto, 30015, Italia",
+        "latitude": 45.2132762,
+        "longitude": 12.2766581,
+        "years": [
+            1663,
+            1696,
+            1713,
+            1716,
+            1784
+        ]
+    },
+    "Cazziola (Rio, Ponte Primo, Sottoportico del P rimo Ponte, Fondamenta, Ponte Secondo della)  a S.": {
+        "address": "PONTE DE LA CAZZIOLA, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4360293,
+        "longitude": 12.320199,
+        "years": []
+    },
+    "Colombo (Calle, Ponte, Rio, Calle, Ramo)  a S. Giacomo dall’Orio.": {
+        "address": "Ponte Colombo, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4402265,
+        "longitude": 12.328827,
+        "years": [
+            1713
+        ]
+    },
+    "Corona (Calle, Ponte della)  a S. Giovanni Nuovo.": {
+        "address": "Ponte de la Corona, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4357669,
+        "longitude": 12.3423089,
+        "years": [
+            1713,
+            1850
+        ]
+    },
+    "Corrente (Calle, Ponte)  a S. Sofia.": {
+        "address": "Ponte Corrente, Fondamenta Sant'Andrea, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4425628,
+        "longitude": 12.3357808,
+        "years": []
+    },
+    "Correr (Ponte e Calle, Calle)  a S. Fosca.": {
+        "address": "Ponte Correr, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4426988,
+        "longitude": 12.3316658,
+        "years": [
+            1270,
+            1297,
+            1406,
+            1445,
+            1459,
+            1460,
+            1464,
+            1734,
+            1830
+        ]
+    },
+    "Cortellotti (Ponte, Calle, Fondamenta dei ) agli Ognissanti.": {
+        "address": "Ponte Cortellotti, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4312565,
+        "longitude": 12.3225605,
+        "years": [
+            1563,
+            1598,
+            1618,
+            1740
+        ]
+    },
+    "Cortesia (Ponte, Calle della).": {
+        "address": "Ponte de la Cortesia, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4351207,
+        "longitude": 12.3338087,
+        "years": [
+            1785,
+            1805
+        ]
+    },
+    "Cossetti (Calle e Ponte)  a S. Andrea, presso i «Tre Ponti».": {
+        "address": "Ponte Cossetti, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4371196,
+        "longitude": 12.3196978,
+        "years": [
+            1778
+        ]
+    },
+    "Croce (Sestiere, Fondamenta, Rio, Ponte della).": {
+        "address": "Ponte della Croce, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4253709,
+        "longitude": 12.3336739,
+        "years": [
+            774,
+            1109,
+            1124,
+            1256,
+            1378,
+            1460,
+            1470,
+            1477,
+            1594,
+            1806,
+            1807,
+            1810
+        ]
+    },
+    "Da Ponte (Calle e Corte)  a S. Maurizio.": {
+        "address": "Rua Venezia, São Miguel, Valdariosa, Queimados, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 26383-080, Brasil",
+        "latitude": -22.7254631,
+        "longitude": -43.571544,
+        "years": [
+            959,
+            1386,
+            1402,
+            1537,
+            1578,
+            1741,
+            1801
+        ]
+    },
+    "Diedo (Fondamenta, Fondamenta e Ponte, Campiello)  a S. Fosca.": {
+        "address": "Ponte Diedo, Fondamenta Grimani, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4436216,
+        "longitude": 12.3317533,
+        "years": [
+            790,
+            1431,
+            1453,
+            1480,
+            1482
+        ]
+    },
+    "Donà (Ponte, Ramo)  sulle «Fondamente Nuove».": {
+        "address": "Ponte Donà, Cannaregio, Venezia-Murano-Burano, Murano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4434751,
+        "longitude": 12.3398069,
+        "years": [
+            1378,
+            1447,
+            1545,
+            1601,
+            1606,
+            1612,
+            1618,
+            1619,
+            1704
+        ]
+    },
+    "Eremite (Fondamenta, Ponte, Rio, Calle e Sottoportico, Calle delle)  ai SS. Gervasio e Protasio.": {
+        "address": "Ponte de le Eremite, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4320335,
+        "longitude": 12.3246609,
+        "years": [
+            1693,
+            1810
+        ]
+    },
+    "Fenice (Ponte, Fondamenta, Rio, Fondamenta della)  a S. Maria Zobenigo.": {
+        "address": "Ponte de la Fenice, Fondamenta San Cristoforo, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4335818,
+        "longitude": 12.3328999,
+        "years": [
+            1791,
+            1792,
+            1854
+        ]
+    },
+    "Foscarini (Ponte, Fondament a) ai Carmini.": {
+        "address": "Ponte Foscarini, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.433873,
+        "longitude": 12.3217036,
+        "years": [
+            867,
+            1297,
+            1574,
+            1602,
+            1622,
+            1745,
+            1762
+        ]
+    },
+    "Frati (Fondamenta, Ponte, Calle dei)  a S. Angelo.": {
+        "address": "Ponte dei Frati, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4341916,
+        "longitude": 12.3315622,
+        "years": [
+            1455
+        ]
+    },
+    "Feltrina (Ponte, Campiello dell a) a S. Maria Zobenigo.": {
+        "address": "Ponte Duodo, Campiello de la Feltrina, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4325728,
+        "longitude": 12.3325584,
+        "years": [
+            1367,
+            1740
+        ]
+    },
+    "Foscari (Calle, Ponte, Rio, Calle)  a San Barnaba.": {
+        "address": "Ponte Foscari, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4347525,
+        "longitude": 12.3259311,
+        "years": [
+            1420,
+            1438,
+            1439,
+            1447,
+            1452
+        ]
+    },
+    "Frescada (Ponte, Rio, Calle, Fondamenta della)  a «S. Tomà».": {
+        "address": "Ponte de la Frescada, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4354575,
+        "longitude": 12.3270612,
+        "years": [
+            1342,
+            1379
+        ]
+    },
+    "Furàtola (Calle, Ponte, Sottoportico della)  a S. Apollinare.": {
+        "address": "Ponte de la Furatola, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4377905,
+        "longitude": 12.3309854,
+        "years": []
+    },
+    "Fuseri (Ramo, Ponte, Rio, Calle dei)  a S. Luca.": {
+        "address": "Ponte dei Fuseri, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.434663,
+        "longitude": 12.3353661,
+        "years": []
+    },
+    "Gàffaro (Ponte, Rio, Fondamenta del)  ai Tolentini.": {
+        "address": "Ponte del Gaffaro, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4369524,
+        "longitude": 12.321145,
+        "years": [
+            1370,
+            1374
+        ]
+    },
+    "Greci (Ramo Calle , Calle, Campo, Fondamenta, Rio, Ponte, Ramo Primo dei).": {
+        "address": "Ponte dei Greci, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.435746,
+        "longitude": 12.3442798,
+        "years": [
+            1400,
+            1437,
+            1453,
+            1526,
+            1539,
+            1564,
+            1571,
+            1573
+        ]
+    },
+    "Guardiani (Sottoportico, Calle, Ponte dei)  all’Angelo Raffaele.": {
+        "address": "Ponte dei Guardiani, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.434498,
+        "longitude": 12.3188327,
+        "years": []
+    },
+    "Latte (Ponte della)  a S. Giovanni Evangelista.": {
+        "address": "Ponte de la Latte, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4388353,
+        "longitude": 12.3260949,
+        "years": [
+            1379,
+            1844
+        ]
+    },
+    "Lion (Calle, Ponte)  a S. Lorenzo.": {
+        "address": "Ponte Lion, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4361695,
+        "longitude": 12.3444652,
+        "years": [
+            1291,
+            1332
+        ]
+    },
+    "Malvasia vecchia (Ponte, Sottoportico, Campiello della)  a S. Fantino.": {
+        "address": "Ponte de la Malvasia Vecchia, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4330528,
+        "longitude": 12.3324128,
+        "years": []
+    },
+    "Manin (Ponte, Sottoportico, Calle)  a San Salvatore.": {
+        "address": "Ponte Manin, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4371246,
+        "longitude": 12.3351931,
+        "years": [
+            1312,
+            1574,
+            1651,
+            1746,
+            1801
+        ]
+    },
+    "Misericordia (Sacca, Canale, Fondamenta, Campo, Ponte, Rio, Fondamenta della).": {
+        "address": "Ponte de la Misericordia, Cannaregio, Venezia-Murano-Burano, Murano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4430305,
+        "longitude": 12.3344552,
+        "years": [
+            1308,
+            1534,
+            1595,
+            1627,
+            1806
+        ]
+    },
+    "Mondo Novo (Ponte, Sottoportico, Calle del)  a S. Maria Formosa.": {
+        "address": "Ponte del Mondo Novo, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4372152,
+        "longitude": 12.3405026,
+        "years": [
+            1740
+        ]
+    },
+    "Malpaga (Rio, Calle, Ponte del)  a S. Barnaba.": {
+        "address": "Ponte del Malpaga, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4326366,
+        "longitude": 12.3255456,
+        "years": []
+    },
+    "Maravégie (Ponte delle)  ai SS. Gervasio e Protasio.": {
+        "address": "Ponte de le Maravegie, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4316389,
+        "longitude": 12.326918,
+        "years": []
+    },
+    "Marcello (Ponte)  ai Tolentini.": {
+        "address": "Ponte Marcello, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4366378,
+        "longitude": 12.3225589,
+        "years": [
+            1438,
+            1473,
+            1482,
+            1484,
+            1633,
+            1638,
+            1656,
+            1686,
+            1739
+        ]
+    },
+    "Mendicanti (Ramo Primo, Ramo Secondo, Ramo Terzo, Calle, Ponte, Fondamenta dei).": {
+        "address": "Ponte della Cavana dell'Ospedale ai Mendicanti, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4403688,
+        "longitude": 12.3417216,
+        "years": [
+            1224,
+            1262,
+            1636,
+            1673,
+            1809,
+            1819,
+            1826,
+            1828
+        ]
+    },
+    "Mégio (Fondamenta, Ramo Fondamenta, Rio, Ponte, Sottoportico, Calle del) a S. Giacomo dall’Orio.": {
+        "address": "Ponte del Megio, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4409178,
+        "longitude": 12.3284711,
+        "years": [
+            1346
+        ]
+    },
+    "Modena (Ponte, Calle del)  a San Boldo.": {
+        "address": "Ponte del Modena, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4394846,
+        "longitude": 12.3290586,
+        "years": [
+            1713,
+            1761
+        ]
+    },
+    "Morti (Ponte, Calle dei)  a S. Cassiano.": {
+        "address": "Ponte dei Morti, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4323924,
+        "longitude": 12.3155081,
+        "years": [
+            1488,
+            1502,
+            1615,
+            1686
+        ]
+    },
+    "Muti (Ramo, Ponte, Corte dei)  alla Madonna dell’Orto.": {
+        "address": "Ponte dei Muti, Fondamenta de l'Abazia, Cannaregio, Venezia-Murano-Burano, Murano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4447567,
+        "longitude": 12.3334413,
+        "years": [
+            1568
+        ]
+    },
+    "Noris (Ponte, Calle, Ramo Calle)  in «Birri»  a San Canciano.": {
+        "address": "Ponte Noris, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.440646,
+        "longitude": 12.339216,
+        "years": [
+            1713,
+            1740
+        ]
+    },
+    "Ospedaletto (Ponte, Calle, Sottoportico e Calle, Campiello, Calle dell’)  ai Santi Giovanni e Paolo.": {
+        "address": "Ponte de l'Ospedaletto, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4383062,
+        "longitude": 12.3427451,
+        "years": [
+            1527,
+            1528,
+            1661,
+            1674,
+            1807
+        ]
+    },
+    "Oche (Ramo, Calle, Sottoportico, Calle e Ponte, Ponte Cal le, Calle delle)  a S. Giacomo dall’Orio.": {
+        "address": "Ponte de le Oche, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4392552,
+        "longitude": 12.327229,
+        "years": []
+    },
+    "Ognissanti (Fondamenta, Ponte, Rio, Campo, Fondamenta, Ponte degli).": {
+        "address": "Ponte Ognissanti, Via Venezia, Stanga, Padova, Veneto, 35131, Italia",
+        "latitude": 45.4098863,
+        "longitude": 11.892714,
+        "years": [
+            1472,
+            1505,
+            1518,
+            1810,
+            1820
+        ]
+    },
+    "Ormesini (Calle, Ponte, Fondamenta dei)  a S. Marziale.": {
+        "address": "Ponte degli Ormesini, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4454446,
+        "longitude": 12.3281316,
+        "years": []
+    },
+    "Ostreghe (Ponte, Rio, Fondamenta, Sottoportico, C alle delle)  a S. Maria Zobenigo.": {
+        "address": "Ponte de le Ostreghe, Calle delle Ostreghe, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4324729,
+        "longitude": 12.3335068,
+        "years": [
+            1815,
+            1823
+        ]
+    },
+    "Pietà (Ponte, Calle, Rio della, Ponte e Calle dietro la)  a San Giovanni in Bragora.": {
+        "address": "Ponte drio la Pietà, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4346992,
+        "longitude": 12.3457128,
+        "years": [
+            1348,
+            1353,
+            1388,
+            1493,
+            1515,
+            1745
+        ]
+    },
+    "Piovan (Ponte del)  detto del Volto  a S. Maria Nuova.": {
+        "address": "Ponte del Piovan, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4398915,
+        "longitude": 12.3395971,
+        "years": []
+    },
+    "Pistór (Calle e Ponte del)  a San Lio.": {
+        "address": "Ponte del Pistor, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4380595,
+        "longitude": 12.3384355,
+        "years": [
+            1461,
+            1487,
+            1491,
+            1780
+        ]
+    },
+    "Ponte (Corte del)  a S. Francesco della Vigna .": {
+        "address": "Gelateria Venezia, Veli Dvor, Punat, Općina Punat, Primorsko-goranska županija, 51521, Hrvatska",
+        "latitude": 45.0226501,
+        "longitude": 14.6287578,
+        "years": [
+            1713,
+            1724
+        ]
+    },
+    "Preti (Fondamenta, Ponte dei)  a S. Maria Formosa.": {
+        "address": "Ponte dei Preti, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4375441,
+        "longitude": 12.3401055,
+        "years": []
+    },
+    "Priuli (Calle larga, Ponte)  a S. Felice.": {
+        "address": "Ponte Priuli, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4417237,
+        "longitude": 12.3356215,
+        "years": [
+            1100,
+            1297,
+            1310,
+            1360,
+            1469,
+            1487,
+            1656,
+            1739
+        ]
+    },
+    "Paglia (Ponte della)  sopra la Riva degli Schiavoni.": {
+        "address": "Ponte della Paglia, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4336258,
+        "longitude": 12.3408647,
+        "years": [
+            1285,
+            1308,
+            1356,
+            1360
+        ]
+    },
+    "Palada (Fondamenta, Rio, Ponte della)  alla Giudecca.": {
+        "address": "Ponte de la Palada, Fondamenta de la Palada, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4249169,
+        "longitude": 12.3267225,
+        "years": [
+            1758
+        ]
+    },
+    "Panada (Rio, Ponte, Sottoportico, Calle della)  a S. Maria Nova.": {
+        "address": "Ponte de la Panada alle Fondamente Nove, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.442392,
+        "longitude": 12.3417065,
+        "years": [
+            1631,
+            1632
+        ]
+    },
+    "Paradiso (Ponte, Calle del)  a S. Maria Formosa.": {
+        "address": "Ponte del Paradiso, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4375338,
+        "longitude": 12.3399269,
+        "years": [
+            1368,
+            1404,
+            1419,
+            1491,
+            1537,
+            1661,
+            1753,
+            1794
+        ]
+    },
+    "Pasqualigo (Ponte)  a S. Maria Formosa.": {
+        "address": "Ponte Pasqualigo, Cannaregio, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4404502,
+        "longitude": 12.3393496,
+        "years": [
+            1120,
+            1207,
+            1381,
+            1483,
+            1484
+        ]
+    },
+    "Pazienze (Calle, Ponte, Calle Sporca delle)  ai Carmini.": {
+        "address": "Ponte de le Pazienze, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4329393,
+        "longitude": 12.3225936,
+        "years": [
+            1300,
+            1498
+        ]
+    },
+    "Pesaro (Calle, Fondamenta, Ponte, Rio)  a S. Eustachio.": {
+        "address": "Ponte Pesaro, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4409514,
+        "longitude": 12.3312108,
+        "years": [
+            1225,
+            1501,
+            1503,
+            1544,
+            1590,
+            1658,
+            1679,
+            1710
+        ]
+    },
+    "Pescaria (Ponte, Traghetto di)  a Rialto.": {
+        "address": "Ponte de la Pescaria, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4399291,
+        "longitude": 12.3338,
+        "years": [
+            1332,
+            1381,
+            1398
+        ]
+    },
+    "Pestrìn (Calle, Ponte, Rio del)  a S. Stefano.": {
+        "address": "Ponte del Pestrin, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4347604,
+        "longitude": 12.330276,
+        "years": [
+            1540,
+            1855
+        ]
+    },
+    "Piccolo  (Ponte, Fondamenta, Rio del Ponte)  alla Giudecca.": {
+        "address": "Ponte Piccolo, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4262715,
+        "longitude": 12.3269031,
+        "years": []
+    },
+    "Pignate (Ponte delle)  a S. Luca, in «Calle dei Fabbri».": {
+        "address": "Ponte de le Pignate, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4354714,
+        "longitude": 12.3365661,
+        "years": [
+            1679
+        ]
+    },
+    "Pignoli (Calle, Campiello, Sottoporti co, Ponte, Fondamenta dei)  a S. Giuliano.": {
+        "address": "Ponte dei Pignoli, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4359467,
+        "longitude": 12.3374895,
+        "years": [
+            1290,
+            1301,
+            1490,
+            1713
+        ]
+    },
+    "Piova (Ponte della)  all’Angelo Raffaele.": {
+        "address": "Ponte de la Piova, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4325422,
+        "longitude": 12.3173804,
+        "years": []
+    },
+    "Pugni (Ponte dei) a S. Barnaba.": {
+        "address": "Ponte dei Pugni, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4331643,
+        "longitude": 12.3243523,
+        "years": [
+            1705
+        ]
+    },
+    "Querini (Campiello, Ponte)  a S. Maria Formosa.": {
+        "address": "Ponte Querini, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.436528,
+        "longitude": 12.3409107,
+        "years": [
+            1310,
+            1350,
+            1537
+        ]
+    },
+    "Ruga Giuffa  (Fondamenta dietro, Ponte di)  a S. Maria Formosa.": {
+        "address": "Ponte de Ruga Giuffa, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4369873,
+        "longitude": 12.3415917,
+        "years": [
+            1283
+        ]
+    },
+    "Ragusei (Calle, Calle e Ponte, Ponte dei)  ai Carmini.": {
+        "address": "Ponte dei Ragusei, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4350499,
+        "longitude": 12.3205208,
+        "years": [
+            1319
+        ]
+    },
+    "Ràvano (Ponte, Calle del)  a Sant’Eustacchio.": {
+        "address": "Ponte del Ravano, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4404673,
+        "longitude": 12.3312847,
+        "years": [
+            1516,
+            1531,
+            1537,
+            1546
+        ]
+    },
+    "Rialto (Ponte, Sottoportici di).": {
+        "address": "Ponte di Rialto, Calle del Fontego dei Tedeschi, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4380507,
+        "longitude": 12.3359346,
+        "years": [
+            1175,
+            1180
+        ]
+    },
+    "Riello (Calle, Ponte, Fondamenta, Fondamenta al Ponte)  a Castell o.": {
+        "address": "Ponte Riello, Via Cadore, Caorle, Venezia, Veneto, 30021, Italia",
+        "latitude": 45.6321318,
+        "longitude": 12.8594251,
+        "years": []
+    },
+    "Rosso (Ponte)  ai Carmini.": {
+        "address": "Ponte Rosso, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4388657,
+        "longitude": 12.340832,
+        "years": []
+    },
+    "S. Andrea (Fondamenta, Ponte)  a S. Sofia, presso la «Ruga dei Due Pozzi».": {
+        "address": "Ponte Sant'Andrea, Ponte di Sant'Andrea, Sottomarina, Chioggia, Venezia, Veneto, 30015, Italia",
+        "latitude": 45.2212995,
+        "longitude": 12.2804224,
+        "years": [
+            1582
+        ]
+    },
+    "S. Antonio (Ponte)  alla Maddalena.": {
+        "address": "Ponte Sant'Antonio, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.443261,
+        "longitude": 12.331674,
+        "years": [
+            1860
+        ]
+    },
+    "S. Biagio (Fondamenta, Rio, Ponte) alla Giudecca.": {
+        "address": "Ponte di San Biagio, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4282052,
+        "longitude": 12.3205068,
+        "years": [
+            1222,
+            1519,
+            1810
+        ]
+    },
+    "S. Caterina (Fondamenta, Rio, Ponte, Calle lunga).": {
+        "address": "Ponte Santa Caterina, Cannaregio, Venezia-Murano-Burano, Murano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4429272,
+        "longitude": 12.3369265,
+        "years": [
+            1274,
+            1288,
+            1289,
+            1807
+        ]
+    },
+    "S. Cristoforo (Calle, Ramo, Ponte)  a S. Vito.": {
+        "address": "Ponte San Cristoforo, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4305279,
+        "longitude": 12.3322156,
+        "years": []
+    },
+    "S. Daniele (Ponte, Rio, Campo, Ramo).": {
+        "address": "Ponte di San Paternian, Campo Daniele Manin, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4352991,
+        "longitude": 12.3338082,
+        "years": [
+            820,
+            1138,
+            1219,
+            1437,
+            1839
+        ]
+    },
+    "S. Eufemia (Parrocchia, Fondamenta, Campiello, Ponte, Rio di)  alla Giudecca.": {
+        "address": "Ponte Santa Eufemia, Giudecca, Venezia-Murano-Burano, Venezia, Veneto, 30133, Italia",
+        "latitude": 45.4271137,
+        "longitude": 12.3233752,
+        "years": [
+            865,
+            1371,
+            1437,
+            1440,
+            1810,
+            1822
+        ]
+    },
+    "S. Gioachino (Calle, Ponte, Fondamenta, Ramo) a Castello .": {
+        "address": "Ponterosso, Via Gioachino Rossini, Borgo Teresiano, Città Nuova-Barriera Nuova-San Vito-Città Vecchia, Trieste, Friuli-Venezia Giulia, 34132, Italia",
+        "latitude": 45.6521896,
+        "longitude": 13.7722021,
+        "years": [
+            1350,
+            1368,
+            1418,
+            1630,
+            1727,
+            1736,
+            1756,
+            1806
+        ]
+    },
+    "S. Girolamo (Fondamenta, Ponte, Rio, Fondamenta, Chiovere).": {
+        "address": "Ponte San Girolamo, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4460309,
+        "longitude": 12.3261211,
+        "years": [
+            1364,
+            1425,
+            1456,
+            1705,
+            1814
+        ]
+    },
+    "S. Maria Maggiore (Ponte, Rio, Fondamenta).": {
+        "address": "Ponte Santa Maria Maggiore, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4348852,
+        "longitude": 12.3173074,
+        "years": [
+            1497,
+            1502,
+            1503,
+            1594,
+            1805,
+            1817
+        ]
+    },
+    "S. Paternian (Calle, Ponte, Salizzada, Rio Terrà).": {
+        "address": "Ponte di San Paternian, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4352607,
+        "longitude": 12.3337572,
+        "years": [
+            959,
+            976,
+            1000,
+            1105,
+            1168,
+            1437,
+            1562,
+            1724,
+            1810
+        ]
+    },
+    "Sacca (Ponte della)  alla Misericordia.": {
+        "address": "Ponte de la Sacca, Venezia-Murano-Burano, Murano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4451372,
+        "longitude": 12.3343206,
+        "years": [
+            1675
+        ]
+    },
+    "Scuola (Calle a fianco, Sottoportico, Ponte, Ramo della) a S. Rocco.": {
+        "address": "Ponte della Scuola Navale, Sant'Elena, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30132, Italia",
+        "latitude": 45.4252384,
+        "longitude": 12.3636031,
+        "years": [
+            1478,
+            1481,
+            1484,
+            1489,
+            1516,
+            1549,
+            1789,
+            1806
+        ]
+    },
+    "Spade (Ponte, Ramo delle)  a S. Matteo di Rialto.": {
+        "address": "Ponte de le Do Spade, Calle del Capeler, San Polo, Venezia-Murano-Burano, Venezia, Veneto, 30125, Italia",
+        "latitude": 45.4393016,
+        "longitude": 12.3332133,
+        "years": [
+            1488,
+            1566,
+            1745
+        ]
+    },
+    "Saloni (Fondamenta ora Rio Terrà, Fondamenta e Ponte dei, Fondamenta delle Zattere alli)  a S. Gregorio.": {
+        "address": "Ponte de l'Umiltà, Fondamenta Zattere ai Saloni, Dorsoduro, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4294682,
+        "longitude": 12.3348129,
+        "years": [
+            1379,
+            1470
+        ]
+    },
+    "Sartorio (Fondamenta, Ponte)  a S. Basilio.": {
+        "address": "Ponte Sartorio, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4313576,
+        "longitude": 12.3218732,
+        "years": [
+            1561,
+            1636,
+            1660,
+            1713
+        ]
+    },
+    "Scudi (Calle, Ramo, Ponte dei)  a S. Martino.": {
+        "address": "Calle al Ponte dei Scudi, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30142, Italia",
+        "latitude": 45.4362771,
+        "longitude": 12.3476808,
+        "years": []
+    },
+    "Sepolcro (Ponte del)  sulla «Riva degli Schiavoni».": {
+        "address": "Ponte del Sepolcro, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4339358,
+        "longitude": 12.3454069,
+        "years": [
+            1471,
+            1475,
+            1484,
+            1493,
+            1500,
+            1739,
+            1808
+        ]
+    },
+    "Storto (Ponte, Calle del Ponte)  a S. Apollinare.": {
+        "address": "Ponte Storto, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4358986,
+        "longitude": 12.3419368,
+        "years": [
+            1279,
+            1280,
+            1548,
+            1563,
+            1574,
+            1578,
+            1587,
+            1844,
+            1845
+        ]
+    },
+    "Tre Archi (Ponte dei)  a S. Giobbe.": {
+        "address": "Ponte dei Tre Archi, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4455473,
+        "longitude": 12.3206982,
+        "years": []
+    },
+    "Tre Ponti (Ponte, Rio, Campazz o dei) a S. Andrea.": {
+        "address": "Ponte dei Tre Ponti, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4370492,
+        "longitude": 12.3201653,
+        "years": [
+            1710
+        ]
+    },
+    "Tron (Ponte)  o della Piavola .": {
+        "address": "Ponte Tron, San Marco, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4346148,
+        "longitude": 12.3364058,
+        "years": []
+    },
+    "Tetta (Calle, Ponte e Fondamenta)  a S. Giovanni Laterano.": {
+        "address": "Ponte Tetta, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4381181,
+        "longitude": 12.342625,
+        "years": [
+            1611,
+            1636,
+            1693,
+            1718
+        ]
+    },
+    "Tette  (Ponte e Fondamenta delle)  a S. Cassiano.": {
+        "address": "Ponte de le Tette, Santa Croce, Venezia-Murano-Burano, Venezia, Veneto, 30135, Italia",
+        "latitude": 45.4388394,
+        "longitude": 12.3309381,
+        "years": [
+            1482
+        ]
+    },
+    "Toletta (Sacca, Ramo, Ramo Secondo, Calle Seconda, Calle, Rio, Ponte della)  ai SS. Gervasio e Protasio.": {
+        "address": "Ponte de la Toletta, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4322011,
+        "longitude": 12.3259247,
+        "years": []
+    },
+    "Turchette (Ponte, Calle, Fondamenta delle)  alle Eremite.": {
+        "address": "Ponte de le Turchette, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4323637,
+        "longitude": 12.3245592,
+        "years": []
+    },
+    "Turlona (Calle, Ponte)  a S. Girolamo.": {
+        "address": "Ponte Turlona, Cannaregio, Venezia-Murano-Burano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.4467925,
+        "longitude": 12.3269016,
+        "years": []
+    },
+    "Umiltà (Ponte della)  alla S alute.": {
+        "address": "Ponte de l'Umiltà, Dorsoduro, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4294707,
+        "longitude": 12.3348111,
+        "years": [
+            1589,
+            1606,
+            1615,
+            1806,
+            1824,
+            1851
+        ]
+    },
+    "Veneta Marina (Ponte della)  a Castello.": {
+        "address": "Ponte de la Veneta Marina, Castello, Venezia-Murano-Burano, Lido, Venezia, Veneto, 30122, Italia",
+        "latitude": 45.4319807,
+        "longitude": 12.3506778,
+        "years": [
+            1686
+        ]
+    },
+    "Verona (Calle, Ponte, Fondamenta della)  a S. Fantino.": {
+        "address": "Ponte de la Verona, Fondamenta de la Verona, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4343651,
+        "longitude": 12.333496,
+        "years": [
+            1740
+        ]
+    },
+    "Veste (Fondamenta, Ponte, Calle delle)  a S. Fantino.": {
+        "address": "Ponte de le Veste, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4334244,
+        "longitude": 12.3343285,
+        "years": [
+            1713
+        ]
+    },
+    "Vitturi (Ponte)  a S. Vitale.": {
+        "address": "Ponte Vitturi, Campo Santo Stefano, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+        "latitude": 45.4326229,
+        "longitude": 12.3294442,
+        "years": [
+            1151,
+            1260,
+            1315,
+            1510,
+            1513,
+            1514,
+            1527,
+            1528,
+            1531,
+            1537,
+            1539,
+            1542,
+            1595,
+            1781
+        ]
+    },
+    "Zanardi (Calle, Calle e Ramo, Ponte)  a S. Caterina.": {
+        "address": "Ponte Sant'Andrea, Calle Zanardi, Cannaregio, Venezia-Murano-Burano, Murano, Venezia, Veneto, 30121, Italia",
+        "latitude": 45.442353,
+        "longitude": 12.3365648,
+        "years": []
+    },
+    "Zattere (Fondamenta, Ponte delle)  in faccia alla «Giudecca».": {
+        "address": "Fondamenta Zattere al Ponte Longo, Dorsoduro, Venezia-Murano-Burano, Venezia, Veneto, 30123, Italia",
+        "latitude": 45.4302431,
+        "longitude": 12.3233917,
+        "years": [
+            1640,
+            1679,
+            1680
+        ]
+    }
+}
